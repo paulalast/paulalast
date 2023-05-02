@@ -23,7 +23,7 @@ Currently, I'm learning React to enhance my web development skills.
 
 #### 🛠️ Languages and Tools:
 
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" alt="JavaScript"> <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="40" alt="React"> 
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" alt="JavaScript">  <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="40" alt="React">
 
 
 
@@ -31,4 +31,7 @@ Currently, I'm learning React to enhance my web development skills.
 
    <a href="https://www.linkedin.com/in/paulina-%C5%82astowiecka/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"></a>    <a href="https://github.com/paulalast/"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="40" alt="GitHub"></a> <a href="https://codelast.tech/"><img src="https://cdn-icons-png.flaticon.com/512/6807/6807090.png" width="40" alt="Website"></a>
 
-
+####   My TOP projects:
+ - <a href="https://family-to-do-list.netlify.app/">Family ToDo List </a>
+ - <a href="https://wellbeing-app.netlify.app/"> WellBeing App </a>
+ - <a href="https://codelast.tech/"> My Website </a>
