@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a web developer with a passion for creating innovative and user-friendly solutions.
 
-Currently, I'm learning React to enhance my web development skills.
+Currently, I'm learning Advanced React to enhance my web development skills.
 
 #### 🛠️ Languages and Tools:
 
