@@ -35,5 +35,5 @@ Currently, I'm learning Advanced React to enhance my web development skills.
 
  - <a href="https://codelast.tech/"> My Website </a>
  - <a href='https://quizzical-app-pl.netlify.app/'>Quizzical App</a>
- - <a href="https://wellbeing-app.netlify.app/"> WellBeing App </a>
+ - <a href="https://wellbeing-app-2023.netlify.app/"> WellBeing App </a>
  - <a href="https://family-todo-list.netlify.app/">Family ToDo List </a>
