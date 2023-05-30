@@ -33,7 +33,8 @@ Currently, I'm learning Advanced React to enhance my web development skills.
 
 ####   My TOP projects:
 
-<!--  - <a href="https://codelast.tech/"> My Website </a>
- - <a href='https://quizzical-app-pl.netlify.app/'>Quizzical App</a>
- - <a href="https://wellbeing-app-2023.netlify.app/"> WellBeing App </a>
- - <a href="https://family-todo-list.netlify.app/">Family ToDo List </a> -->
+ - <a href="https://codelast.tech/"> My Website </a>
+ - <a href='https://paulalast.github.io/quizzical-app/'>Quizzical App</a>
+ - <a href="https://paulalast.github.io/wellbeing-app-2023/"> WellBeing App </a>
+ - <a href="https://paulalast.github.io/chromeDashboard/">Personal Chrome Dashboard </a>
+ - <a href="https://paulalast.github.io/family-todo-list/">Family ToDo List </a>
