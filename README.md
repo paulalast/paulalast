@@ -23,6 +23,10 @@ I'm a web developer with a passion for creating innovative and user-friendly sol
 #### 🛠️ Languages and Tools:
 
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" alt="JavaScript">  <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="40" alt="React">
+- JavaScript
+- React
+- React Router
+- Tailwind
 
 
 
