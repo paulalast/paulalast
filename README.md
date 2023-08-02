@@ -40,5 +40,4 @@ I'm a web developer with a passion for creating innovative and user-friendly sol
  - <a href='https://paulalast.github.io/HomeDesign/'>HomeDesign Website</a>
  - <a href='https://paulalast.github.io/quizzical-app/'>Quizzical App</a>
  - <a href="https://paulalast.github.io/v-wellbeing-app/"> WellBeing App </a>
- - <a href="https://paulalast.github.io/chromeDashboard/">Personal Chrome Dashboard </a>
  - <a href="https://paulalast.github.io/family-todo-list/">Family ToDo List </a>
