@@ -37,6 +37,7 @@ I'm a web developer with a passion for creating innovative and user-friendly sol
 ####   My TOP projects:
 
 
+ - <a href='https://lastinsight.pl/'>LASTiNSIGHT Website</a>
  - <a href='https://paulalast.github.io/HomeDesign/'>HomeDesign Website</a>
  - <a href='https://paulalast.github.io/quizzical-app/'>Quizzical App</a>
  - <a href="https://paulalast.github.io/v-wellbeing-app/"> WellBeing App </a>
