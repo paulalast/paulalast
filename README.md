@@ -32,7 +32,7 @@ I'm a web developer with a passion for creating innovative and user-friendly sol
 
 #### 📫 Connect with me:
 
-   <a href="https://www.linkedin.com/in/paulina-%C5%82astowiecka/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"></a>    <a href="https://github.com/paulalast/"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="40" alt="GitHub"></a> <a href="https://lastinsight.pl/"><img src="https://cdn-icons-png.flaticon.com/512/6807/6807090.png" width="40" alt="Website"></a>
+   <a href="https://www.linkedin.com/in/paulina-lastowiecka/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"></a>    <a href="https://github.com/paulalast/"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="40" alt="GitHub"></a> <a href="https://lastinsight.pl/"><img src="https://cdn-icons-png.flaticon.com/512/6807/6807090.png" width="40" alt="Website"></a>
 
 ####   My TOP projects Live View:
 
