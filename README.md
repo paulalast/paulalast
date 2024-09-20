@@ -27,6 +27,7 @@ I'm a web developer with a passion for creating innovative and user-friendly sol
 - React
 - React Router
 - Tailwind
+- Vue
 
 
 
